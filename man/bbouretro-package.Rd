@@ -11,25 +11,26 @@ Estimates annual survival, recruitment and population growth using the tradition
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://poissonconsulting.github.io/bbouretro/}
-  \item \url{https://github.com/poissonconsulting/bbouretro}
-  \item Report bugs at \url{https://github.com/poissonconsulting/bbouretro/issues}
+  \item \url{https://LandSciTech.github.io/bbouretro/}
+  \item \url{https://github.com/LandSciTech/bbouretro}
+  \item Report bugs at \url{https://github.com/LandSciTech/bbouretro/issues}
 }
 
 }
 \author{
-\strong{Maintainer}: Ayla Pearson \email{ayla@poissonconsulting.ca} (\href{https://orcid.org/0000-0001-7388-1222}{ORCID})
+\strong{Maintainer}: Sarah Endicott \email{Sarah.Endicott@ec.gc.ca} (Took over package maintenance October 2026)
 
 Authors:
 \itemize{
   \item John Boulanger \email{boulange@ecological.bc.ca} (\href{https://orcid.org/0000-0001-8222-1445}{ORCID})
+  \item Ayla Pearson \email{ayla@poissonconsulting.ca} (\href{https://orcid.org/0000-0001-7388-1222}{ORCID})
   \item Joe Thorley \email{joe@poissonconsulting.ca} (\href{https://orcid.org/0000-0002-7683-4592}{ORCID})
 }
 
 Other contributors:
 \itemize{
   \item Seb Dalgarno \email{seb@poissonconsulting.ca} (\href{https://orcid.org/0000-0002-3658-4517}{ORCID}) [contributor]
-  \item Colton Stephens \email{colton@poissonconsulting.ca} (\href{https://orcid.org/0000-0002-8744-6405}{ORCID}) [contributor]
+  \item Colton Stephens (\href{https://orcid.org/0000-0002-8744-6405}{ORCID}) [contributor]
   \item Province of Alberta [copyright holder]
 }
 

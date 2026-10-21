@@ -33,9 +33,9 @@
 
 [![Lifecycle:
 stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
-[![R-CMD-check](https://github.com/poissonconsulting/bbouretro/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/poissonconsulting/bbouretro/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://github.com/LandSciTech/bbouretro/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/LandSciTech/bbouretro/actions/workflows/R-CMD-check.yaml)
 [![Codecov test
-coverage](https://codecov.io/gh/poissonconsulting/bbouretro/branch/main/graph/badge.svg?token=y99t6ttYNS)](https://app.codecov.io/gh/poissonconsulting/bbouretro?branch=main)
+coverage](https://codecov.io/gh/LandSciTech/bbouretro/branch/main/graph/badge.svg?token=y99t6ttYNS)](https://app.codecov.io/gh/LandSciTech/bbouretro?branch=main)
 <!-- badges: end -->
 
 ## Introduction
@@ -46,11 +46,11 @@ recruitment and population growth using the traditional methods.
 ## Installation
 
 To install the latest version from
-[GitHub](https://github.com/poissonconsulting/bbouretro)
+[GitHub](https://github.com/LandSciTech/bbouretro)
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("poissonconsulting/bbouretro")
+remotes::install_github("LandSciTech/bbouretro")
 ```
 
 ## Example
@@ -77,7 +77,7 @@ recruitment_est <-
 bbr_plot_recruitment(recruitment_est)
 ```
 
-<img src="man/figures/README-unnamed-chunk-3-1.png" width="100%" />
+<img src="man/figures/README-unnamed-chunk-3-1.png" alt="" width="100%" />
 
 ``` r
 
@@ -91,7 +91,7 @@ survival_est <-
 bbr_plot_survival(survival_est)
 ```
 
-<img src="man/figures/README-unnamed-chunk-3-2.png" width="100%" />
+<img src="man/figures/README-unnamed-chunk-3-2.png" alt="" width="100%" />
 
 ``` r
 
@@ -116,31 +116,31 @@ summary
 bbr_plot_growth(growth_est)
 ```
 
-<img src="man/figures/README-unnamed-chunk-3-3.png" width="100%" />
+<img src="man/figures/README-unnamed-chunk-3-3.png" alt="" width="100%" />
 
 ``` r
 bbr_plot_growth_distributions(growth_est)
 ```
 
-<img src="man/figures/README-unnamed-chunk-3-4.png" width="100%" />
+<img src="man/figures/README-unnamed-chunk-3-4.png" alt="" width="100%" />
 
 ## bbou Suite
 
 `bbouretro` is part of the bbou suite of tools. Other packages in this
 suite include:
 
-- [bboudata](https://github.com/poissonconsulting/bboudata)
-- [bboutools](https://github.com/poissonconsulting/bboutools)
-- [bboushiny](https://github.com/poissonconsulting/bboushiny)
-- [bbousims](https://github.com/poissonconsulting/bbousims)
+- [bboudata](https://github.com/LandSciTech/bboudata)
+- [bboutools](https://github.com/LandSciTech/bboutools)
+- [bboushiny](https://github.com/LandSciTech/bboushiny)
+- [bbousims](https://github.com/LandSciTech/bbousims)
 
 ## Contribution
 
 Please report any
-[issues](https://github.com/poissonconsulting/bbouretro/issues).
+[issues](https://github.com/LandSciTech/bbouretro/issues).
 
-[Pull requests](https://github.com/poissonconsulting/bbouretro/pulls)
-are always welcome.
+[Pull requests](https://github.com/LandSciTech/bbouretro/pulls) are
+always welcome.
 
 ## Code of Conduct
 

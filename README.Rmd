@@ -32,8 +32,8 @@ library(bbouretro)
 
 <!-- badges: start -->
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
-[![R-CMD-check](https://github.com/poissonconsulting/bbouretro/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/poissonconsulting/bbouretro/actions/workflows/R-CMD-check.yaml)
-[![Codecov test coverage](https://codecov.io/gh/poissonconsulting/bbouretro/branch/main/graph/badge.svg?token=y99t6ttYNS)](https://app.codecov.io/gh/poissonconsulting/bbouretro?branch=main)
+[![R-CMD-check](https://github.com/LandSciTech/bbouretro/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/LandSciTech/bbouretro/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/LandSciTech/bbouretro/branch/main/graph/badge.svg?token=y99t6ttYNS)](https://app.codecov.io/gh/LandSciTech/bbouretro?branch=main)
 <!-- badges: end -->
 
 ## Introduction
@@ -41,11 +41,11 @@ The goal of bbouretro is to provide the ability to calculate survival, recruitme
 
 ## Installation
 
-To install the latest version from [GitHub](https://github.com/poissonconsulting/bbouretro)
+To install the latest version from [GitHub](https://github.com/LandSciTech/bbouretro)
 
 ```{r, eval=FALSE}
 # install.packages("remotes")
-remotes::install_github("poissonconsulting/bbouretro")
+remotes::install_github("LandSciTech/bbouretro")
 ```
 
 ## Example
@@ -88,16 +88,16 @@ bbr_plot_growth_distributions(growth_est)
 `bbouretro` is part of the bbou suite of tools. 
 Other packages in this suite include:
 
-- [bboudata](https://github.com/poissonconsulting/bboudata)
-- [bboutools](https://github.com/poissonconsulting/bboutools)
-- [bboushiny](https://github.com/poissonconsulting/bboushiny)
-- [bbousims](https://github.com/poissonconsulting/bbousims)
+- [bboudata](https://github.com/LandSciTech/bboudata)
+- [bboutools](https://github.com/LandSciTech/bboutools)
+- [bboushiny](https://github.com/LandSciTech/bboushiny)
+- [bbousims](https://github.com/LandSciTech/bbousims)
 
 ## Contribution
 
-Please report any [issues](https://github.com/poissonconsulting/bbouretro/issues).
+Please report any [issues](https://github.com/LandSciTech/bbouretro/issues).
 
-[Pull requests](https://github.com/poissonconsulting/bbouretro/pulls) are always welcome.
+[Pull requests](https://github.com/LandSciTech/bbouretro/pulls) are always welcome.
 
 ## Code of Conduct
 

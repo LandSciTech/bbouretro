@@ -18,8 +18,8 @@
 #' and documentation
 #' @export
 #' @examples
-#' @keywords internal
 #' licensing_md()
+#' @keywords internal
 licensing_md <- function() {
   "## Licensing
   Copyright 2024 Province of Alberta\\

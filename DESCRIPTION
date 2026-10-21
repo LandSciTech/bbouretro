@@ -4,7 +4,7 @@ Version: 0.1.0
 Authors@R: c(
     person("John", "Boulanger", , "boulange@ecological.bc.ca", role = "aut",
            comment = c(ORCID = "0000-0001-8222-1445")),
-    person("Ayla", "Pearson", , "ayla@poissonconsulting.ca", role = c("aut", "cre"),
+    person("Ayla", "Pearson", , "ayla@poissonconsulting.ca", role = c("aut"),
            comment = c(ORCID = "0000-0001-7388-1222")),
     person("Joe", "Thorley", , "joe@poissonconsulting.ca", role = "aut",
            comment = c(ORCID = "0000-0002-7683-4592")),
@@ -12,15 +12,17 @@ Authors@R: c(
            comment = c(ORCID = "0000-0002-3658-4517")),
     person("Colton", "Stephens", , role = "ctb",
            comment = c(ORCID = "0000-0002-8744-6405")),
+    person("Sarah", "Endicott", , "Sarah.Endicott@ec.gc.ca", role = c("cre"),
+           comment = "Took over package maintenance October 2026"),
     person("Province of Alberta", role = "cph")
   )
 Description: Estimates annual survival, recruitment and population growth
     using the traditional methods. This package is part of the bbou suite of
     tools.
 License: Apache License (>= 2)
-URL: https://poissonconsulting.github.io/bbouretro/,
-    https://github.com/poissonconsulting/bbouretro
-BugReports: https://github.com/poissonconsulting/bbouretro/issues
+URL: https://LandSciTech.github.io/bbouretro/,
+    https://github.com/LandSciTech/bbouretro
+BugReports: https://github.com/LandSciTech/bbouretro/issues
 Imports: 
     boot,
     chk,
@@ -42,10 +44,9 @@ Suggests:
 VignetteBuilder: 
     knitr
 Remotes:
-    poissonconsulting/bboudata
+    LandSciTech/bboudata
 Config/testthat/edition: 3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.3.2.9000
+RoxygenNote: 7.3.3
 Config/Needs/website: poissonconsulting/poissontemplate
-

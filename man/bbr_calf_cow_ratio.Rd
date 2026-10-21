@@ -52,7 +52,7 @@ Estimate Calf-Cow Ratio.
 \details{
 \code{x} needs to be formatted in a certain manner. To confirm the input
 data frame is in the right format you can use the
-\href{https://poissonconsulting.github.io/bboudata/reference/bbd_chk_data_recruitment.html}{\code{bbd_chk_data_recruitment}}
+\href{https://LandSciTech.github.io/bboudata/reference/bbd_chk_data_recruitment.html}{\code{bbd_chk_data_recruitment}}
 function.  See the \code{vignette("methods", package = "bbouretro")} for the
 equations used in this function.
 
