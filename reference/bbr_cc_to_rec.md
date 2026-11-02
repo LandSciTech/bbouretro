@@ -7,7 +7,7 @@ multiple the calf cow ratio by the sex ratio to get the female calf to
 cow ratio and then divide that number by itself plus 1 to get the female
 recruitment rate ie female calves divided by all females. To perform the
 inverse conversion see
-[`bbr_rec_to_cc()`](https://poissonconsulting.github.io/bbouretro/reference/bbr_rec_to_cc.md)
+[`bbr_rec_to_cc()`](https://LandSciTech.github.io/bbouretro/reference/bbr_rec_to_cc.md)
 
 ## Usage
 
@@ -31,7 +31,7 @@ A numeric vector of the equivalent recruitment rate
 
 ## See also
 
-[`bbr_rec_to_cc()`](https://poissonconsulting.github.io/bbouretro/reference/bbr_rec_to_cc.md)
+[`bbr_rec_to_cc()`](https://LandSciTech.github.io/bbouretro/reference/bbr_rec_to_cc.md)
 
 ## Examples
 

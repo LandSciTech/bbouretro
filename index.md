@@ -8,12 +8,12 @@ recruitment and population growth using the traditional methods.
 ## Installation
 
 To install the latest version from
-[GitHub](https://github.com/poissonconsulting/bbouretro)
+[GitHub](https://github.com/LandSciTech/bbouretro)
 
 ``` r
 
 # install.packages("remotes")
-remotes::install_github("poissonconsulting/bbouretro")
+remotes::install_github("LandSciTech/bbouretro")
 ```
 
 ## Example
@@ -96,18 +96,18 @@ bbr_plot_growth_distributions(growth_est)
 `bbouretro` is part of the bbou suite of tools. Other packages in this
 suite include:
 
-- [bboudata](https://github.com/poissonconsulting/bboudata)
-- [bboutools](https://github.com/poissonconsulting/bboutools)
-- [bboushiny](https://github.com/poissonconsulting/bboushiny)
-- [bbousims](https://github.com/poissonconsulting/bbousims)
+- [bboudata](https://github.com/LandSciTech/bboudata)
+- [bboutools](https://github.com/LandSciTech/bboutools)
+- [bboushiny](https://github.com/LandSciTech/bboushiny)
+- [bbousims](https://github.com/LandSciTech/bbousims)
 
 ## Contribution
 
 Please report any
-[issues](https://github.com/poissonconsulting/bbouretro/issues).
+[issues](https://github.com/LandSciTech/bbouretro/issues).
 
-[Pull requests](https://github.com/poissonconsulting/bbouretro/pulls)
-are always welcome.
+[Pull requests](https://github.com/LandSciTech/bbouretro/pulls) are
+always welcome.
 
 ## Code of Conduct
 

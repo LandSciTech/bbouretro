@@ -7,7 +7,7 @@ used in bbou**retro** are outlined below.
 ## Survival
 
 The
-[`bbr_survival()`](https://poissonconsulting.github.io/bbouretro/reference/bbr_survival.md)
+[`bbr_survival()`](https://LandSciTech.github.io/bbouretro/reference/bbr_survival.md)
 function uses the staggered entry Kaplan-Meier method.
 
 The staggered entry Kaplan-Meier, which uses discrete time steps, is
@@ -45,7 +45,7 @@ caribou studies are given in `vignette("previous-methods")`.
 ## Recruitment
 
 The
-[`bbr_recruitment()`](https://poissonconsulting.github.io/bbouretro/reference/bbr_recruitment.md)
+[`bbr_recruitment()`](https://LandSciTech.github.io/bbouretro/reference/bbr_recruitment.md)
 function estimates recruitment using the following method.
 
 Estimation of recruitment follows methods of DeCesare et al. (2012).
@@ -84,7 +84,7 @@ to obtain variance estimates (Manly 1997).
 ## Population Growth
 
 For
-[`bbr_growth()`](https://poissonconsulting.github.io/bbouretro/reference/bbr_growth.md)
+[`bbr_growth()`](https://LandSciTech.github.io/bbouretro/reference/bbr_growth.md)
 function uses the basic Hatter-Bergerud method (Hatter and Bergerud
 1991).
 
@@ -108,9 +108,9 @@ Output summaries also include mean values simulated for S, R, as well as
 mean and median \lambda values from the simulation.
 
 Users can generate plots of simulated lambda values using the
-[`bbr_plot_growth_distributions()`](https://poissonconsulting.github.io/bbouretro/reference/bbr_plot_growth_distributions.md)
+[`bbr_plot_growth_distributions()`](https://LandSciTech.github.io/bbouretro/reference/bbr_plot_growth_distributions.md)
 or yearly estimates using
-[`bbr_plot_growth()`](https://poissonconsulting.github.io/bbouretro/reference/bbr_plot_growth.md).
+[`bbr_plot_growth()`](https://LandSciTech.github.io/bbouretro/reference/bbr_plot_growth.md).
 
 ## References
 

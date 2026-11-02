@@ -2,7 +2,7 @@
 
 Converts the female recruitment rate to the calf cow ratio. For further
 information see
-[`bbr_cc_to_rec()`](https://poissonconsulting.github.io/bbouretro/reference/bbr_cc_to_rec.md).
+[`bbr_cc_to_rec()`](https://LandSciTech.github.io/bbouretro/reference/bbr_cc_to_rec.md).
 
 ## Usage
 
@@ -26,7 +26,7 @@ A numeric vector of the equivalent calf:cow ratio
 
 ## See also
 
-[`bbr_cc_to_rec()`](https://poissonconsulting.github.io/bbouretro/reference/bbr_cc_to_rec.md)
+[`bbr_cc_to_rec()`](https://LandSciTech.github.io/bbouretro/reference/bbr_cc_to_rec.md)
 
 ## Examples
 

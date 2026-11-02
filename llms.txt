@@ -8,12 +8,12 @@ recruitment and population growth using the traditional methods.
 ## Installation
 
 To install the latest version from
-[GitHub](https://github.com/poissonconsulting/bbouretro)
+[GitHub](https://github.com/LandSciTech/bbouretro)
 
 ``` r
 
 # install.packages("remotes")
-remotes::install_github("poissonconsulting/bbouretro")
+remotes::install_github("LandSciTech/bbouretro")
 ```
 
 ## Example
@@ -96,18 +96,18 @@ bbr_plot_growth_distributions(growth_est)
 `bbouretro` is part of the bbou suite of tools. Other packages in this
 suite include:
 
-- [bboudata](https://github.com/poissonconsulting/bboudata)
-- [bboutools](https://github.com/poissonconsulting/bboutools)
-- [bboushiny](https://github.com/poissonconsulting/bboushiny)
-- [bbousims](https://github.com/poissonconsulting/bbousims)
+- [bboudata](https://github.com/LandSciTech/bboudata)
+- [bboutools](https://github.com/LandSciTech/bboutools)
+- [bboushiny](https://github.com/LandSciTech/bboushiny)
+- [bbousims](https://github.com/LandSciTech/bbousims)
 
 ## Contribution
 
 Please report any
-[issues](https://github.com/poissonconsulting/bbouretro/issues).
+[issues](https://github.com/LandSciTech/bbouretro/issues).
 
-[Pull requests](https://github.com/poissonconsulting/bbouretro/pulls)
-are always welcome.
+[Pull requests](https://github.com/LandSciTech/bbouretro/pulls) are
+always welcome.
 
 ## Code of Conduct
 
@@ -129,33 +129,33 @@ The code is released under the [Apache License
 
 ## Recruitment
 
-- [`bbr_recruitment()`](https://poissonconsulting.github.io/bbouretro/reference/bbr_recruitment.md)
+- [`bbr_recruitment()`](https://LandSciTech.github.io/bbouretro/reference/bbr_recruitment.md)
   : Estimate recruitment
-- [`bbr_plot_recruitment()`](https://poissonconsulting.github.io/bbouretro/reference/bbr_plot_recruitment.md)
+- [`bbr_plot_recruitment()`](https://LandSciTech.github.io/bbouretro/reference/bbr_plot_recruitment.md)
   : Plot recruitment
-- [`bbr_calf_cow_ratio()`](https://poissonconsulting.github.io/bbouretro/reference/bbr_calf_cow_ratio.md)
+- [`bbr_calf_cow_ratio()`](https://LandSciTech.github.io/bbouretro/reference/bbr_calf_cow_ratio.md)
   : Estimate Calf-Cow Ratio.
-- [`bbr_cc_to_rec()`](https://poissonconsulting.github.io/bbouretro/reference/bbr_cc_to_rec.md)
+- [`bbr_cc_to_rec()`](https://LandSciTech.github.io/bbouretro/reference/bbr_cc_to_rec.md)
   : Calf Cow Ratio to Recruitment
-- [`bbr_rec_to_cc()`](https://poissonconsulting.github.io/bbouretro/reference/bbr_rec_to_cc.md)
+- [`bbr_rec_to_cc()`](https://LandSciTech.github.io/bbouretro/reference/bbr_rec_to_cc.md)
   : Recruitment to Calf Cow Ratio
 
 ## Survival
 
-- [`bbr_survival()`](https://poissonconsulting.github.io/bbouretro/reference/bbr_survival.md)
+- [`bbr_survival()`](https://LandSciTech.github.io/bbouretro/reference/bbr_survival.md)
   : Estimate survival
-- [`bbr_plot_survival()`](https://poissonconsulting.github.io/bbouretro/reference/bbr_plot_survival.md)
+- [`bbr_plot_survival()`](https://LandSciTech.github.io/bbouretro/reference/bbr_plot_survival.md)
   : Plot survival
 
 ## Lambda
 
-- [`bbr_growth()`](https://poissonconsulting.github.io/bbouretro/reference/bbr_growth.md)
+- [`bbr_growth()`](https://LandSciTech.github.io/bbouretro/reference/bbr_growth.md)
   : Simulate population growth
-- [`bbr_growth_summarize()`](https://poissonconsulting.github.io/bbouretro/reference/bbr_growth_summarize.md)
+- [`bbr_growth_summarize()`](https://LandSciTech.github.io/bbouretro/reference/bbr_growth_summarize.md)
   : Summarize population growth
-- [`bbr_plot_growth()`](https://poissonconsulting.github.io/bbouretro/reference/bbr_plot_growth.md)
+- [`bbr_plot_growth()`](https://LandSciTech.github.io/bbouretro/reference/bbr_plot_growth.md)
   : Plot population growth
-- [`bbr_plot_growth_distributions()`](https://poissonconsulting.github.io/bbouretro/reference/bbr_plot_growth_distributions.md)
+- [`bbr_plot_growth_distributions()`](https://LandSciTech.github.io/bbouretro/reference/bbr_plot_growth_distributions.md)
   : Plot population growth distributions
 
 # Articles
@@ -164,7 +164,7 @@ The code is released under the [Apache License
 
 - [Methods used in \`bbouretro\` for Estimating Survival, Recruitment,
   and Population
-  Growth](https://poissonconsulting.github.io/bbouretro/articles/retro-methods.md):
+  Growth](https://LandSciTech.github.io/bbouretro/articles/retro-methods.md):
 - [Traditional Methods for Estimating Survival, Recruitment, and
   Population
-  Growth](https://poissonconsulting.github.io/bbouretro/articles/traditional-methods.md):
+  Growth](https://LandSciTech.github.io/bbouretro/articles/traditional-methods.md):
