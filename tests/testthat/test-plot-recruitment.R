@@ -109,9 +109,9 @@ test_that("errors if no year column", {
 test_that("errors if list passed", {
   recruitment_est <- list()
 
-  expect_error(
+  expect_chk_error(
     bbr_plot_recruitment(recruitment_est),
-    regexp = "`recruitment` must inherit from S3 class 'data\\.frame'\\."
+    regexp = "`recruitment` must inherit from S3 class 'data\\.frame'"
   )
 })
 

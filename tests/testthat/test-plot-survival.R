@@ -121,7 +121,7 @@ test_that("errors if list passed", {
 
   expect_error(
     bbr_plot_survival(survival_est),
-    regexp = "`survival` must inherit from S3 class 'data\\.frame'\\."
+    regexp = "`survival` must inherit from S3 class 'data\\.frame'"
   )
 })
 
